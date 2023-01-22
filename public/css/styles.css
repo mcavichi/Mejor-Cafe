@@ -1,0 +1,28 @@
+/* HEADER */
+.img__logo {        
+    width: 200px;
+}
+    
+/* MAIN */
+.background__image {
+    background-image: url(../images/patryk-gauza-vs0tzSHVcac-unsplash.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+.card__img {
+    width: 70px;
+}
+
+.tarjetas__animacion:hover {
+        background-color: grey;
+        color: white;
+        cursor: pointer;
+        transition: all 1s;
+}
+
+/* FOOTER */
+.img__sizing {
+    width: 30px;
+    height: 30px;
+}
